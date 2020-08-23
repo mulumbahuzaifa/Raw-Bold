@@ -1,0 +1,22 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+//components
+@import 'badge';
+@import 'variables';
+
+//Pages
+@import 'pages/auth';
+@import 'pages/responsive';
+@import 'pages/cart';
+@import 'pages/category';
+@import 'pages/footer';
+@import 'pages/header';
+@import 'pages/checkout';
+@import 'pages/contact';
+@import 'pages/product';
+@import 'pages/main';
+
